@@ -19,48 +19,62 @@ namespace FlightsApp.Data
             using (var connection = _databaseConnection.CreateConnection())
             {
                 await connection.OpenAsync();
-                using (var command = new MySqlCommand("SELECT id, airline, departure, arrival FROM flights", connection))
+                using (var command = new MySqlCommand("SELECT * FROM flights", connection))
                 using (var reader = await command.ExecuteReaderAsync())
                 {
                     while (await reader.ReadAsync())
                     {
                         flights.Add(new Flight
                         {
-                            Id = reader.GetInt32(reader.GetOrdinal("id")),
-                            Airline = reader.GetString(reader.GetOrdinal("airline")),
-                            Departure = reader.GetString(reader.GetOrdinal("departure")),
-                            Arrival = reader.GetString(reader.GetOrdinal("arrival"))
+                            Id = reader.GetInt32("Id"),
+                            Airline = reader.GetString("Airline"),
+                            Destination = reader.GetString("Destination"),
+                            Price = reader.GetDecimal("Price")
                         });
                     }
                 }
             }
             return flights;
         }
+
         public async Task<Flight?> GetFlightByIdAsync(int id)
         {
             using (var connection = _databaseConnection.CreateConnection())
             {
                 await connection.OpenAsync();
-                using (var command = new MySqlCommand())
-
+                using (var command = new MySqlCommand($"SELECT * FROM flights WHERE Id = @id", connection))
+                {
+                    command.Parameters.AddWithValue("@Id", id);
+                    using (var reader = await command.ExecuteReaderAsync())
+                    {
+                        if (await reader.ReadAsync())
+                        {
+                            return new Flight
+                            {
+                                Id = reader.GetInt32("Id"),
+                                Airline = reader.GetString("Airline"),
+                                Destination = reader.GetString("Destination"),
+                                Price = reader.GetDecimal("Price")
+                            };
+                        }
+                        return null;
+                    }
+                }
             }
-
-
         }
 
-
-        public void AddFlight(Flight flight)
+        public Task AddFlightAsync(Flight flight)
         {
-
+            throw new NotImplementedException();
         }
 
-        public void DeleteFlight(int id)
+        public Task DeleteFlightAsync(int id)
         {
             throw new NotImplementedException();
         }
 
 
-        public void UpdateFlight(Flight flight)
+        public Task UpdateFlightAsync(Flight flight)
         {
             throw new NotImplementedException();
         }

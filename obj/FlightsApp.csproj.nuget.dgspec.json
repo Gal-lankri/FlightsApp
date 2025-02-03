@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\GalLankri\\source\\repos\\FlightsApp\\FlightsApp.csproj": {}
+    "C:\\Workspace\\FlightsApp\\FlightsApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\GalLankri\\source\\repos\\FlightsApp\\FlightsApp.csproj": {
+    "C:\\Workspace\\FlightsApp\\FlightsApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\GalLankri\\source\\repos\\FlightsApp\\FlightsApp.csproj",
+        "projectUniqueName": "C:\\Workspace\\FlightsApp\\FlightsApp.csproj",
         "projectName": "FlightsApp",
-        "projectPath": "C:\\Users\\GalLankri\\source\\repos\\FlightsApp\\FlightsApp.csproj",
+        "projectPath": "C:\\Workspace\\FlightsApp\\FlightsApp.csproj",
         "packagesPath": "C:\\Users\\GalLankri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\GalLankri\\source\\repos\\FlightsApp\\obj\\",
+        "outputPath": "C:\\Workspace\\FlightsApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\GalLankri\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -46,6 +46,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Cors": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            },
             "MySql.Data": {
               "target": "Package",
               "version": "[9.2.0, )"
