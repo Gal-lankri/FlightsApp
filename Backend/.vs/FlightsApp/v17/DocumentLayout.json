@@ -1,49 +1,49 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Workspace\\FlightsApp\\",
+  "WorkspaceRootPath": "C:\\Workspace\\FlightsApp\\Backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7D28C3F9-5E2D-4B55-9804-87101E86C7B5}|FlightsApp.csproj|c:\\workspace\\flightsapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{7D28C3F9-5E2D-4B55-9804-87101E86C7B5}|FlightsApp.csproj|c:\\workspace\\flightsapp\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{7D28C3F9-5E2D-4B55-9804-87101E86C7B5}|FlightsApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D28C3F9-5E2D-4B55-9804-87101E86C7B5}|FlightsApp.csproj|c:\\workspace\\flightsapp\\data\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7D28C3F9-5E2D-4B55-9804-87101E86C7B5}|FlightsApp.csproj|c:\\workspace\\flightsapp\\backend\\data\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D28C3F9-5E2D-4B55-9804-87101E86C7B5}|FlightsApp.csproj|solutionrelative:data\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D28C3F9-5E2D-4B55-9804-87101E86C7B5}|FlightsApp.csproj|c:\\workspace\\flightsapp\\data\\flightrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7D28C3F9-5E2D-4B55-9804-87101E86C7B5}|FlightsApp.csproj|c:\\workspace\\flightsapp\\backend\\data\\flightrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D28C3F9-5E2D-4B55-9804-87101E86C7B5}|FlightsApp.csproj|solutionrelative:data\\flightrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D28C3F9-5E2D-4B55-9804-87101E86C7B5}|FlightsApp.csproj|c:\\workspace\\flightsapp\\controllers\\flightscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7D28C3F9-5E2D-4B55-9804-87101E86C7B5}|FlightsApp.csproj|c:\\workspace\\flightsapp\\backend\\controllers\\flightscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D28C3F9-5E2D-4B55-9804-87101E86C7B5}|FlightsApp.csproj|solutionrelative:controllers\\flightscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D28C3F9-5E2D-4B55-9804-87101E86C7B5}|FlightsApp.csproj|c:\\workspace\\flightsapp\\data\\iflightrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7D28C3F9-5E2D-4B55-9804-87101E86C7B5}|FlightsApp.csproj|c:\\workspace\\flightsapp\\backend\\data\\iflightrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D28C3F9-5E2D-4B55-9804-87101E86C7B5}|FlightsApp.csproj|solutionrelative:data\\iflightrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D28C3F9-5E2D-4B55-9804-87101E86C7B5}|FlightsApp.csproj|c:\\workspace\\flightsapp\\dtos\\flightdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7D28C3F9-5E2D-4B55-9804-87101E86C7B5}|FlightsApp.csproj|c:\\workspace\\flightsapp\\backend\\dtos\\flightdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D28C3F9-5E2D-4B55-9804-87101E86C7B5}|FlightsApp.csproj|solutionrelative:dtos\\flightdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D28C3F9-5E2D-4B55-9804-87101E86C7B5}|FlightsApp.csproj|c:\\workspace\\flightsapp\\models\\entities\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7D28C3F9-5E2D-4B55-9804-87101E86C7B5}|FlightsApp.csproj|c:\\workspace\\flightsapp\\backend\\models\\entities\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D28C3F9-5E2D-4B55-9804-87101E86C7B5}|FlightsApp.csproj|solutionrelative:models\\entities\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D28C3F9-5E2D-4B55-9804-87101E86C7B5}|FlightsApp.csproj|c:\\workspace\\flightsapp\\services\\iflightservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7D28C3F9-5E2D-4B55-9804-87101E86C7B5}|FlightsApp.csproj|c:\\workspace\\flightsapp\\backend\\services\\iflightservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D28C3F9-5E2D-4B55-9804-87101E86C7B5}|FlightsApp.csproj|solutionrelative:services\\iflightservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D28C3F9-5E2D-4B55-9804-87101E86C7B5}|FlightsApp.csproj|c:\\workspace\\flightsapp\\flightsapp.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "AbsoluteMoniker": "D:0:0:{7D28C3F9-5E2D-4B55-9804-87101E86C7B5}|FlightsApp.csproj|c:\\workspace\\flightsapp\\backend\\flightsapp.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{7D28C3F9-5E2D-4B55-9804-87101E86C7B5}|FlightsApp.csproj|solutionrelative:flightsapp.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D28C3F9-5E2D-4B55-9804-87101E86C7B5}|FlightsApp.csproj|c:\\workspace\\flightsapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7D28C3F9-5E2D-4B55-9804-87101E86C7B5}|FlightsApp.csproj|c:\\workspace\\flightsapp\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D28C3F9-5E2D-4B55-9804-87101E86C7B5}|FlightsApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D28C3F9-5E2D-4B55-9804-87101E86C7B5}|FlightsApp.csproj|c:\\workspace\\flightsapp\\services\\flightservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7D28C3F9-5E2D-4B55-9804-87101E86C7B5}|FlightsApp.csproj|c:\\workspace\\flightsapp\\backend\\services\\flightservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D28C3F9-5E2D-4B55-9804-87101E86C7B5}|FlightsApp.csproj|solutionrelative:services\\flightservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -96,9 +96,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Workspace\\FlightsApp\\appsettings.json",
+              "DocumentMoniker": "C:\\Workspace\\FlightsApp\\Backend\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Workspace\\FlightsApp\\appsettings.json",
+              "ToolTip": "C:\\Workspace\\FlightsApp\\Backend\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -109,9 +109,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "FlightsApp.http",
-              "DocumentMoniker": "C:\\Workspace\\FlightsApp\\FlightsApp.http",
+              "DocumentMoniker": "C:\\Workspace\\FlightsApp\\Backend\\FlightsApp.http",
               "RelativeDocumentMoniker": "FlightsApp.http",
-              "ToolTip": "C:\\Workspace\\FlightsApp\\FlightsApp.http",
+              "ToolTip": "C:\\Workspace\\FlightsApp\\Backend\\FlightsApp.http",
               "RelativeToolTip": "FlightsApp.http",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
@@ -121,9 +121,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "FlightsController.cs",
-              "DocumentMoniker": "C:\\Workspace\\FlightsApp\\Controllers\\FlightsController.cs",
+              "DocumentMoniker": "C:\\Workspace\\FlightsApp\\Backend\\Controllers\\FlightsController.cs",
               "RelativeDocumentMoniker": "Controllers\\FlightsController.cs",
-              "ToolTip": "C:\\Workspace\\FlightsApp\\Controllers\\FlightsController.cs",
+              "ToolTip": "C:\\Workspace\\FlightsApp\\Backend\\Controllers\\FlightsController.cs",
               "RelativeToolTip": "Controllers\\FlightsController.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAAswCIAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -133,9 +133,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "FlightDTO.cs",
-              "DocumentMoniker": "C:\\Workspace\\FlightsApp\\DTOs\\FlightDTO.cs",
+              "DocumentMoniker": "C:\\Workspace\\FlightsApp\\Backend\\DTOs\\FlightDTO.cs",
               "RelativeDocumentMoniker": "DTOs\\FlightDTO.cs",
-              "ToolTip": "C:\\Workspace\\FlightsApp\\DTOs\\FlightDTO.cs",
+              "ToolTip": "C:\\Workspace\\FlightsApp\\Backend\\DTOs\\FlightDTO.cs",
               "RelativeToolTip": "DTOs\\FlightDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -145,9 +145,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "IFlightService.cs",
-              "DocumentMoniker": "C:\\Workspace\\FlightsApp\\Services\\IFlightService.cs",
+              "DocumentMoniker": "C:\\Workspace\\FlightsApp\\Backend\\Services\\IFlightService.cs",
               "RelativeDocumentMoniker": "Services\\IFlightService.cs",
-              "ToolTip": "C:\\Workspace\\FlightsApp\\Services\\IFlightService.cs",
+              "ToolTip": "C:\\Workspace\\FlightsApp\\Backend\\Services\\IFlightService.cs",
               "RelativeToolTip": "Services\\IFlightService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -157,9 +157,9 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "FlightService.cs",
-              "DocumentMoniker": "C:\\Workspace\\FlightsApp\\Services\\FlightService.cs",
+              "DocumentMoniker": "C:\\Workspace\\FlightsApp\\Backend\\Services\\FlightService.cs",
               "RelativeDocumentMoniker": "Services\\FlightService.cs",
-              "ToolTip": "C:\\Workspace\\FlightsApp\\Services\\FlightService.cs",
+              "ToolTip": "C:\\Workspace\\FlightsApp\\Backend\\Services\\FlightService.cs",
               "RelativeToolTip": "Services\\FlightService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -169,35 +169,33 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "DatabaseConnection.cs",
-              "DocumentMoniker": "C:\\Workspace\\FlightsApp\\Data\\DatabaseConnection.cs",
+              "DocumentMoniker": "C:\\Workspace\\FlightsApp\\Backend\\Data\\DatabaseConnection.cs",
               "RelativeDocumentMoniker": "Data\\DatabaseConnection.cs",
-              "ToolTip": "C:\\Workspace\\FlightsApp\\Data\\DatabaseConnection.cs",
+              "ToolTip": "C:\\Workspace\\FlightsApp\\Backend\\Data\\DatabaseConnection.cs",
               "RelativeToolTip": "Data\\DatabaseConnection.cs",
               "ViewState": "AQIAAAIAAAAAAAAAAAAnwBEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T13:16:29.285Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-03T13:16:29.285Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "FlightRepository.cs",
-              "DocumentMoniker": "C:\\Workspace\\FlightsApp\\Data\\FlightRepository.cs",
+              "DocumentMoniker": "C:\\Workspace\\FlightsApp\\Backend\\Data\\FlightRepository.cs",
               "RelativeDocumentMoniker": "Data\\FlightRepository.cs",
-              "ToolTip": "C:\\Workspace\\FlightsApp\\Data\\FlightRepository.cs",
+              "ToolTip": "C:\\Workspace\\FlightsApp\\Backend\\Data\\FlightRepository.cs",
               "RelativeToolTip": "Data\\FlightRepository.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAACoAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T11:37:01.703Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-03T11:37:01.703Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "IFlightRepository.cs",
-              "DocumentMoniker": "C:\\Workspace\\FlightsApp\\Data\\IFlightRepository.cs",
+              "DocumentMoniker": "C:\\Workspace\\FlightsApp\\Backend\\Data\\IFlightRepository.cs",
               "RelativeDocumentMoniker": "Data\\IFlightRepository.cs",
-              "ToolTip": "C:\\Workspace\\FlightsApp\\Data\\IFlightRepository.cs",
+              "ToolTip": "C:\\Workspace\\FlightsApp\\Backend\\Data\\IFlightRepository.cs",
               "RelativeToolTip": "Data\\IFlightRepository.cs",
               "ViewState": "AQIAAAEAAAAAAAAAAIAwwAUAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -207,9 +205,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Flight.cs",
-              "DocumentMoniker": "C:\\Workspace\\FlightsApp\\Models\\Entities\\Flight.cs",
+              "DocumentMoniker": "C:\\Workspace\\FlightsApp\\Backend\\Models\\Entities\\Flight.cs",
               "RelativeDocumentMoniker": "Models\\Entities\\Flight.cs",
-              "ToolTip": "C:\\Workspace\\FlightsApp\\Models\\Entities\\Flight.cs",
+              "ToolTip": "C:\\Workspace\\FlightsApp\\Backend\\Models\\Entities\\Flight.cs",
               "RelativeToolTip": "Models\\Entities\\Flight.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -219,9 +217,9 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Workspace\\FlightsApp\\Program.cs",
+              "DocumentMoniker": "C:\\Workspace\\FlightsApp\\Backend\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Workspace\\FlightsApp\\Program.cs",
+              "ToolTip": "C:\\Workspace\\FlightsApp\\Backend\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAB0AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

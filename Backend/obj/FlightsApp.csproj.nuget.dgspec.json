@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Workspace\\FlightsApp\\FlightsApp.csproj": {}
+    "C:\\Workspace\\FlightsApp\\Backend\\FlightsApp.csproj": {}
   },
   "projects": {
-    "C:\\Workspace\\FlightsApp\\FlightsApp.csproj": {
+    "C:\\Workspace\\FlightsApp\\Backend\\FlightsApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Workspace\\FlightsApp\\FlightsApp.csproj",
+        "projectUniqueName": "C:\\Workspace\\FlightsApp\\Backend\\FlightsApp.csproj",
         "projectName": "FlightsApp",
-        "projectPath": "C:\\Workspace\\FlightsApp\\FlightsApp.csproj",
+        "projectPath": "C:\\Workspace\\FlightsApp\\Backend\\FlightsApp.csproj",
         "packagesPath": "C:\\Users\\GalLankri\\.nuget\\packages\\",
-        "outputPath": "C:\\Workspace\\FlightsApp\\obj\\",
+        "outputPath": "C:\\Workspace\\FlightsApp\\Backend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\GalLankri\\AppData\\Roaming\\NuGet\\NuGet.Config",

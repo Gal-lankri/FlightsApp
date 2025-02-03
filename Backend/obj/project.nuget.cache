@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DTwWlta03z4=",
+  "dgSpecHash": "T0goFGNy03w=",
   "success": true,
-  "projectFilePath": "C:\\Workspace\\FlightsApp\\FlightsApp.csproj",
+  "projectFilePath": "C:\\Workspace\\FlightsApp\\Backend\\FlightsApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\GalLankri\\.nuget\\packages\\bouncycastle.cryptography\\2.3.1\\bouncycastle.cryptography.2.3.1.nupkg.sha512",
     "C:\\Users\\GalLankri\\.nuget\\packages\\google.protobuf\\3.26.1\\google.protobuf.3.26.1.nupkg.sha512",
