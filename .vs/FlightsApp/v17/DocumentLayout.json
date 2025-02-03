@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\GalLankri\\source\\repos\\FlightsApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D28C3F9-5E2D-4B55-9804-87101E86C7B5}|FlightsApp.csproj|c:\\users\\gallankri\\source\\repos\\flightsapp\\data\\flightrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D28C3F9-5E2D-4B55-9804-87101E86C7B5}|FlightsApp.csproj|solutionrelative:data\\flightrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D28C3F9-5E2D-4B55-9804-87101E86C7B5}|FlightsApp.csproj|c:\\users\\gallankri\\source\\repos\\flightsapp\\data\\iflightrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D28C3F9-5E2D-4B55-9804-87101E86C7B5}|FlightsApp.csproj|solutionrelative:data\\iflightrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D28C3F9-5E2D-4B55-9804-87101E86C7B5}|FlightsApp.csproj|c:\\users\\gallankri\\source\\repos\\flightsapp\\models\\entities\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D28C3F9-5E2D-4B55-9804-87101E86C7B5}|FlightsApp.csproj|solutionrelative:models\\entities\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D28C3F9-5E2D-4B55-9804-87101E86C7B5}|FlightsApp.csproj|c:\\users\\gallankri\\source\\repos\\flightsapp\\data\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D28C3F9-5E2D-4B55-9804-87101E86C7B5}|FlightsApp.csproj|solutionrelative:data\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D28C3F9-5E2D-4B55-9804-87101E86C7B5}|FlightsApp.csproj|c:\\users\\gallankri\\source\\repos\\flightsapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D28C3F9-5E2D-4B55-9804-87101E86C7B5}|FlightsApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DatabaseConnection.cs",
+              "DocumentMoniker": "C:\\Users\\GalLankri\\source\\repos\\FlightsApp\\Data\\DatabaseConnection.cs",
+              "RelativeDocumentMoniker": "Data\\DatabaseConnection.cs",
+              "ToolTip": "C:\\Users\\GalLankri\\source\\repos\\FlightsApp\\Data\\DatabaseConnection.cs",
+              "RelativeToolTip": "Data\\DatabaseConnection.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAnwA0AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T13:16:29.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FlightRepository.cs",
+              "DocumentMoniker": "C:\\Users\\GalLankri\\source\\repos\\FlightsApp\\Data\\FlightRepository.cs",
+              "RelativeDocumentMoniker": "Data\\FlightRepository.cs",
+              "ToolTip": "C:\\Users\\GalLankri\\source\\repos\\FlightsApp\\Data\\FlightRepository.cs",
+              "RelativeToolTip": "Data\\FlightRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T11:37:01.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IFlightRepository.cs",
+              "DocumentMoniker": "C:\\Users\\GalLankri\\source\\repos\\FlightsApp\\Data\\IFlightRepository.cs",
+              "RelativeDocumentMoniker": "Data\\IFlightRepository.cs",
+              "ToolTip": "C:\\Users\\GalLankri\\source\\repos\\FlightsApp\\Data\\IFlightRepository.cs",
+              "RelativeToolTip": "Data\\IFlightRepository.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAIAwwAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T11:35:06.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Flight.cs",
+              "DocumentMoniker": "C:\\Users\\GalLankri\\source\\repos\\FlightsApp\\Models\\Entities\\Flight.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\Flight.cs",
+              "ToolTip": "C:\\Users\\GalLankri\\source\\repos\\FlightsApp\\Models\\Entities\\Flight.cs",
+              "RelativeToolTip": "Models\\Entities\\Flight.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T10:31:57.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\GalLankri\\source\\repos\\FlightsApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\GalLankri\\source\\repos\\FlightsApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T10:20:47.74Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
